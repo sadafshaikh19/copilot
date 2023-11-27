@@ -1,4 +1,5 @@
-# Copilot on CRUD operations: Rest API with H2 DB Sprinf boot application to explore capabilities of Github Copilot
+# Copilot on CRUD operations
+## Rest API with H2 DB Spring boot application to explore capabilities of Github-Copilot
 
 ## Build Maven project
 ```
