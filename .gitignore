@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 testdb.mv
+db.mv
 
 ### STS ###
 .apt_generated
